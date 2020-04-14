@@ -1,0 +1,7 @@
+ALPIDE
+ steps: 45651
+ 1) count: 278
+ 2) count: 571
+ Sum count: 849
+ ICE count in ALPIDEs: 704
+Yield (e-/n): 0.0704
